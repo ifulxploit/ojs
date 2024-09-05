@@ -34,7 +34,7 @@
     "tiny-emitter": "^2.1.0",
     "tinymce": "^5.10.9",
     "uuid": "^9.0.0",
-    "vue": "^3.3.8",
+    "vue": "^3.3.5",
     "vue-chartjs": "^5.2.0",
     "vue-draggable-plus": "^0.2.4",
     "vue-scrollto": "^2.20.0",
